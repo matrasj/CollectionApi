@@ -1,4 +1,4 @@
-package com.demo.collectionapi.product;
+package com.demo.collectionapi.order;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
